@@ -8,8 +8,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Mukta+Malar:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
   <?php include "css.php";?>
-
-
 </head>
 <body>
 <?php include "header.php";?>
@@ -34,10 +32,16 @@
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
       <li data-target="#myCarousel" data-slide-to="1"></li>
       <li data-target="#myCarousel" data-slide-to="2"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+      <li data-target="#myCarousel" data-slide-to="4"></li>
+      <li data-target="#myCarousel" data-slide-to="5"></li>
+      <li data-target="#myCarousel" data-slide-to="6"></li>
+      <li data-target="#myCarousel" data-slide-to="7"></li>
+      <li data-target="#myCarousel" data-slide-to="8"></li>
     </ol>
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
-      <div class="item">
+      <div class="item active">
         <img src="img/homecarousel/2.jpg" alt="Los Angeles" style="width:100%;">
         <div class="carousel-caption">
           <h3><span class="mukta-malar-regular"> இலண்டன் - ஆண்டு விழா 2023 </span></h3>
@@ -48,7 +52,7 @@
       <div class="item">
         <img src="img/homecarousel/scotland-ad.png" alt="Los Angeles" style="width:100%;">
         <div class="carousel-caption">
-          <p><span class="mukta-malar-regular"> Scotland - Awarding Ceremony </span></p>
+          <p><span class="mukta-malar-regular"> Scotland - Awarding Ceremony 2024 </span></p>
         </div>
       </div>
 
