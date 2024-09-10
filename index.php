@@ -37,15 +37,18 @@
     </ol>
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
-      <div class="item active">
-        <img src="img/homecarousel/scotland-ad.png" alt="Los Angeles" style="width:100%;">
-      </div>
-
       <div class="item">
         <img src="img/homecarousel/2.jpg" alt="Los Angeles" style="width:100%;">
         <div class="carousel-caption">
           <h3><span class="mukta-malar-regular"> இலண்டன் - ஆண்டு விழா 2023 </span></h3>
           <p><span class="mukta-malar-regular"> இலண்டன் மாணவர்கள் </span></p>
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="img/homecarousel/scotland-ad.png" alt="Los Angeles" style="width:100%;">
+        <div class="carousel-caption">
+          <p><span class="mukta-malar-regular"> Scotland - Awarding Ceremony </span></p>
         </div>
       </div>
 
