@@ -7,4 +7,4 @@ deployment:
     - /bin/cp -R images $DEPLOYPATH
     - /bin/cp -R fonts $DEPLOYPATH
     - /bin/cp -R css $DEPLOYPATH
-    - /bin/cp -R *.php $DEPLOYPATH
+    - /bin/cp *.php $DEPLOYPATH

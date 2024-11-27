@@ -42,7 +42,9 @@
   <div class="col-md-3 col-sm-6 col-xs-6 wth-smal ani">
     <div class="quick-links">
       <h4>Contact Us</h4>
-      <div class="address-footer"><p><b>Registered Office:</b> 77 Echo Court, Northolt Road, Harrow,<br>London HA2 0FU,UK</p></div>
+      <div class="address-footer"><p><b>Registered Office UK:</b> 77 Echo Court, Northolt Road, Harrow,<br>London HA2 0FU,UK</p></div>
+      <div class="address-footer"><p><b>Registered Office Malaysia</b></p></div>
+      <div class="address-footer"><p><b>Registered Office India</b></p></div>
       <div class="phone-footer">
         <p><b>UK:</b> +44 74597 13276, +44 74382 17913</p>
         <p><b>Malaysia:</b> +60 11 3539 3014</p>
@@ -55,11 +57,11 @@
 <div class="footer_bottom"></div>
 <div class="container">
   <div class="copyright ani"> 
-    <p>© <script language="javascript" type="text/javascript">
+    <p>Copyright © <script language="javascript" type="text/javascript">
 							var today = new Date()
 							var year = today.getFullYear()
 							document.write(year)
-							</script> - All Rights Reserved</p>
+							</script> Global Tamil School</p>
   </div>
 </div>
 <div class="clearfix"></div>
