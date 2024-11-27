@@ -11,9 +11,9 @@
     <!-- Mobile views -->
     <div class="col-sm-4 col-xs-4">
       <div class="folow-us">
-        <a href="https://www.facebook.com/globaltamilschool" target="_blank"><img src="images/facebook.png" alt="social"/></a>
-        <a href="https://www.youtube.com/channel/UC5EIQagW7HUq4i_8zcyOa8Q" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
-        <a href="https://x.com/GlobalTamilSchl" target="_blank"><img src="images/twitter.png" alt="social"/></a>
+        <a href="https://www.facebook.com/globaltamilschool" target="_blank"><img src="../images/facebook.png" alt="social"/></a>
+        <a href="https://www.youtube.com/channel/UC5EIQagW7HUq4i_8zcyOa8Q" target="_blank"><img src="../images/you-tube-icon.png" alt="social"/></a>
+        <a href="https://x.com/GlobalTamilSchl" target="_blank"><img src="../images/twitter.png" alt="social"/></a>
       </div>
     </div>
     <div class="col-sm-8 col-xs-8 no-pad-menu">
@@ -28,7 +28,7 @@
     </div>
     <div class="col-sm-12">
       <marquee class="site-stripe-container" behavior="scroll" direction="left">
-        <a class="site-stripe mukta-malar-bold" href="/contact-us">Registrations for Academic year 2024 - 2025 going on ! Please contact us.</a>
+        <a class="site-stripe mukta-malar-bold" href="../contact-us">2024 - 2025 கல்வி ஆண்டிற்கான மாணவர் சேர்க்கை நடைபெறுகிறது ! தொடர்பு கொள்ளவும்.</a>
       </marquee>
     </div>
   </div>
@@ -38,7 +38,7 @@
     <!-- Desktop & Tablet views -->
     <div class="col-lg-2 col-md-3">
       <div class="folow-us">
-        Follow us on :
+      <span class="mukta-malar-medium">தொடர்பு :</span>
         <a href="https://www.facebook.com/globaltamilschool" target="_blank"><img src="images/facebook.png" alt="social"/></a>
         <a href="https://www.youtube.com/channel/UC5EIQagW7HUq4i_8zcyOa8Q" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
         <a href="https://x.com/GlobalTamilSchl" target="_blank"><img src="images/twitter.png" alt="social"/></a>      
@@ -68,7 +68,7 @@
     <!-- Desktop & Tablet views -->
     <div class="col-lg-12 col-md-12">
       <marquee class="site-stripe-container" behavior="scroll" direction="left">
-        <a class="site-stripe mukta-malar-bold" href="/contact-us">Registrations for Academic year 2024 - 2025 going on ! Please contact us.</a>
+        <a class="site-stripe mukta-malar-bold" href="/contact-us">2024 - 2025 கல்வி ஆண்டிற்கான மாணவர் சேர்க்கை நடைபெறுகிறது ! தொடர்பு கொள்ளவும்.</a>
       </marquee>
     </div>
   </div>
@@ -92,24 +92,24 @@
               </div>
               <div class="collapse navbar-collapse no-pad-sd" id="myNavbar">
                 <ul class="nav navbar-nav">
-                  <li class="active"><a href="/">HOME</a></li>
-                  <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Global Tamil School  <b class="caret"></b> </a>
+                  <li class="active"><a href="/"><span class="mukta-malar-bold">முகப்பு</span></a></li>
+                  <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="mukta-malar-bold">உலகளாவிய தமிழ்ப் பள்ளி<b class="caret"></b> </a>
                     <ul class="dropdown-menu">
-                      <li><a href="about-us.php">About us</a></li>
-                      <li><a href="courses.php">Courses & Exams</a></li>
-                      <li><a href="affiliations.php">Our Affiliations</a></li>
-                      <li><a href="faculty.php">Teachers & Committee</a></li>
+                      <li><a href="about-us.php"><span class="mukta-malar-medium">எங்களைப் பற்றி</span></a></li>
+                      <li><a href="courses.php"><span class="mukta-malar-medium">படிப்புகள் & பரீட்சைகள்</span></a></li>
+                      <li><a href="affiliations.php"><span class="mukta-malar-medium">எங்கள் இணைப்பு</span></a></li>
+                      <li><a href="faculty.php"><span class="mukta-malar-medium">ஆசிரியர்கள் & குழு</span></a></li>
                     </ul>
                   </li>
-                  <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">News & Blogs  <b class="caret"></b></a>
+                  <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="mukta-malar-bold">செய்தி & வலைப்பதிவுகள்</span> <b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                      <li><a href="facebookposts.php">Facebook posts</a></li>
-                      <li><a href="blog.php">Blog</a></li>
-                      <li><a href="newsletter.php">Newsletters </a></li>
+                      <li><a href="facebookposts.php"><span class="mukta-malar-medium">முகநூல் பதிவுகள்</span></a></li>
+                      <li><a href="blog.php"><span class="mukta-malar-medium">வலைப்பதிவு</span></a></li>
+                      <li><a href="newsletter.php"><span class="mukta-malar-medium">செய்திமடல்கள்</span></a></li>
                     </ul>
                   <!-- <li><a href="career.php">Careers</a></li> -->
-                  <li><a href="contact-us.php">Contact us</a></li>
-                  <li><a href="ta">தமிழ்</a></li>
+                  <li><a href="contact-us.php"><span class="mukta-malar-bold">தொடர்புக்கு</span></a></li>
+                  <li><a href="../index.php">English</a></li>
                 </ul>
               </div>
             </div>

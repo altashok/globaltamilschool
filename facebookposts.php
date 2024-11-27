@@ -12,7 +12,7 @@
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v11.0" nonce="tnNgt6o9"></script>
 <?php include "header.php";?>
 <div class="title-component">
-  <h1 class="mukta-malar-bold">அண்மைச் செய்திகள்<br>LATEST NEWS</h1>
+  <h1 class="mukta-malar-bold">Facebook Posts</h1>
 </div>
 
 <div class="clearfix"></div>
