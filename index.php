@@ -41,22 +41,8 @@
     </ol>
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
+
       <div class="item active">
-        <img src="img/homecarousel/2.jpg" alt="Los Angeles" style="width:100%;">
-        <div class="carousel-caption">
-          <h3><span class="mukta-malar-regular"> இலண்டன் - ஆண்டு விழா 2023 </span></h3>
-          <p><span class="mukta-malar-regular"> இலண்டன் மாணவர்கள் </span></p>
-        </div>
-      </div>
-
-      <div class="item">
-        <img src="img/homecarousel/scotland-ad.png" alt="Los Angeles" style="width:100%;">
-        <div class="carousel-caption">
-          <p><span class="mukta-malar-regular"> Scotland - Awarding Ceremony 2024 </span></p>
-        </div>
-      </div>
-
-      <div class="item">
         <img src="img/homecarousel/gts-students-world.png" alt="Los Angeles" style="width:100%;">
         <div class="carousel-caption">
           <h3><span class="mukta-malar-regular"> உலகெங்குமுள்ள எங்கள் மாணவர்கள் </span></h3>
@@ -65,26 +51,46 @@
       </div>
 
       <div class="item">
-        <img src="img/homecarousel/4.jpg" alt="Chicago" style="width:100%;">
+        <img src="img/homecarousel/uk-2022.jpg" alt="uk2023" style="width:100%;">
         <div class="carousel-caption">
           <h3><span class="mukta-malar-regular"> பட்டமளிப்பு விழா - இலண்டன் மாணவர்கள் </span></h3>
           <p><span class="mukta-malar-regular"> BTEB 2022 exams </span></p>
         </div>
       </div>
-    
+
       <div class="item">
-        <img src="img/homecarousel/1.jpg" alt="New York" style="width:100%;">
+        <img src="img/homecarousel/malaysia-2024.png" alt="malaysia2024" style="width:100%;">
         <div class="carousel-caption">
-          <h3><span class="mukta-malar-regular"> உலகளாவிய தமிழ்ப் பள்ளி - மலேசியா </span></h3>
-          <p><span class="mukta-malar-regular"> ஆண்டு விழா 2022 </span></p>
+          <p><span class="mukta-malar-regular"> மலேசியா - ஆண்டு விழா 2024 </span></p>
         </div>
       </div>
 
       <div class="item">
-        <img src="img/homecarousel/3.jpg" alt="New York" style="width:100%;">
+        <img src="img/homecarousel/uk-2024.png" alt="uk2024" style="width:100%;">
         <div class="carousel-caption">
-          <h3><span class="mukta-malar-regular"> மலேசியா மாணவர்களின் கலை நிகழ்ச்சிகள் </span></h3>
-          <p><span class="mukta-malar-regular"> ஆண்டு விழா 2022 (மலேசியா) </span></p>
+          <h3><span class="mukta-malar-regular"> ஆண்டு விழா 2024 </span></h3>
+          <p><span class="mukta-malar-regular"> England & Scotland </span></p>
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="img/homecarousel/malaysia-2023.jpg" alt="malaysia2023" style="width:100%;">
+        <div class="carousel-caption">
+          <p><span class="mukta-malar-regular"> மலேசியா ஆண்டு விழா 2023 </span></p>
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="img/homecarousel/uk-2023.jpg" alt="uk2023" style="width:100%;">
+        <div class="carousel-caption">
+          <p><span class="mukta-malar-regular"> இலண்டன் ஆண்டு விழா 2023 </span></p>
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="img/homecarousel/malaysia-2022.jpg" alt="malaysia2022" style="width:100%;">
+        <div class="carousel-caption">
+          <p><span class="mukta-malar-regular"> மலேசியா ஆண்டு விழா 2022 </span></p>
         </div>
       </div>
 
@@ -101,13 +107,6 @@
         <div class="carousel-caption">
           <h3><span class="mukta-malar-regular">" அச்சமில்லை அச்சமில்லை </span></h3>
           <h3><span class="mukta-malar-regular"> அச்சமென்பதில்லையே " - பாரதி</span></h3>
-        </div>
-      </div>
-
-      <div class="item">
-        <img src="img/homecarousel/7.jpg" alt="New York" style="width:100%;">
-        <div class="carousel-caption">
-          <h3><span class="mukta-malar-regular"> ஆண்டு விழா 2023 (மலேசியா) </span></h3>
         </div>
       </div>
     </div>
@@ -220,7 +219,7 @@
     <!-- *************** COLUMN 1 ***************** -->
     <div class="col-md-4 smal-dev-clearfix ani wisewood-cont-abt">
       <div class="news-heading">
-        <h5><span><b>Academic Year 2023-2024</b></h5>
+        <h5><span><b>Academic Year 2024-2025</b></h5>
       </div>
       <p>Registrations open for Academic year 24-25. Please contact us for classes.</p>
       <a href="https://bteb.org.uk/award-day" style="text-transform:uppercase; color:#00847a;">Read more</a>
@@ -241,32 +240,40 @@
         <b>Important Dates</b></h5>
       </div>
       <!--Date start-->
+      <div class="date-wise">
+        <div class="date-time"> 
+          <p>13 Oct</p>
+        </div>
+        <div class="annual-day"></div>
+        <b>Malaysia Annual Day 2024</b><br>
+        <p>in Kualalumpur</p>
+      </div>
 
       <div class="date-wise">
         <div class="date-time"> 
-          <p>7</p><span>Sep</span>
+          <p>7 Sep</p>
         </div>
         <div class="annual-day"></div>
         <b>Scotland Annual Day 2024</b><br>
-        <p>Annual day is celebrated in Edinurgh for Scotland students</p>
+        <p>in Edinburgh</p>
       </div>
 
       <div class="date-wise">
         <div class="date-time"> 
-          <p>2</p><span>Sep</span>
+          <p>2 Sep</p>
         </div>
         <div class="annual-day"></div>
         <b>AY 2024-2025 starts</b><br>
-        <p>Academic year 2024-2025 is starting from September</p>
+        <p>September Batch</p>
       </div>
 
       <div class="date-wise">
         <div class="date-time"> 
-          <p>29</p><span>Jun</span>
+          <p>29 Jun</p>
         </div>
         <div class="annual-day"></div>
         <b>BTEB - Exams June 2024</b><br>
-        <p>British Tamil Examination Board online & offline exams</p>
+        <p>Online & offline</p>
       </div>
   
       <a href="#" style="text-transform:uppercase; color:#00847a; margin:0 95px;" class="text-center">Read more</a>
@@ -282,10 +289,10 @@
       <iframe width="100%" height="250" src="https://www.youtube.com/embed/6JXFDEumZfI?si=zcYRVPfMGs1Ca18i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       <div class="news-heading">
-        <h5><span><b>Malaysia - Annual Day 2023</b></h5>
+        <h5><span><b>Malaysia - Annual Day 2024</b></h5>
       </div>
       <p>A grand celebration of the event at Kualalumpur</p>
-      <iframe width="100%" height="250" src="https://www.youtube.com/embed/Jb5wkYcy98k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/SonFxz9zkX0?si=shYNYrEPlgVcOv9a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
 

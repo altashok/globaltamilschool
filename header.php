@@ -14,6 +14,7 @@
         <a href="https://www.facebook.com/globaltamilschool" target="_blank"><img src="images/facebook.png" alt="social"/></a>
         <a href="https://www.youtube.com/channel/UC5EIQagW7HUq4i_8zcyOa8Q" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
         <a href="https://x.com/GlobalTamilSchl" target="_blank"><img src="images/twitter.png" alt="social"/></a>
+        <a href="https://www.instagram.com/globaltamilschool" target="_blank"><img src="images/instagram.png" alt="social"/></a>
       </div>
     </div>
     <div class="col-sm-8 col-xs-8 no-pad-menu">
@@ -28,7 +29,7 @@
     </div>
     <div class="col-sm-12">
       <marquee class="site-stripe-container" behavior="scroll" direction="left">
-        <a class="site-stripe mukta-malar-bold" href="/contact-us">2024 - 2025 கல்வி ஆண்டிற்கான மாணவர் சேர்க்கை நடைபெறுகிறது ! தொடர்பு கொள்ளவும்.</a>
+        <a class="site-stripe mukta-malar-bold" href="/contact-us.php">2024 - 2025 கல்வி ஆண்டிற்கான மாணவர் சேர்க்கை நடைபெறுகிறது ! தொடர்பு கொள்ளவும்.</a>
       </marquee>
     </div>
   </div>
@@ -38,10 +39,11 @@
     <!-- Desktop & Tablet views -->
     <div class="col-lg-2 col-md-3">
       <div class="folow-us">
-        Follow us on :
+        Follow us :
         <a href="https://www.facebook.com/globaltamilschool" target="_blank"><img src="images/facebook.png" alt="social"/></a>
         <a href="https://www.youtube.com/channel/UC5EIQagW7HUq4i_8zcyOa8Q" target="_blank"><img src="images/you-tube-icon.png" alt="social"/></a>
-        <a href="https://x.com/GlobalTamilSchl" target="_blank"><img src="images/twitter.png" alt="social"/></a>      
+        <a href="https://x.com/GlobalTamilSchl" target="_blank"><img src="images/twitter.png" alt="social"/></a>
+        <a href="https://www.instagram.com/globaltamilschool" target="_blank"><img src="images/instagram.png" alt="social"/></a>    
       </div>
     </div>
     <div class="col-md-9 col-lg-9 no-pad-menu">
@@ -68,7 +70,7 @@
     <!-- Desktop & Tablet views -->
     <div class="col-lg-12 col-md-12">
       <marquee class="site-stripe-container" behavior="scroll" direction="left">
-        <a class="site-stripe mukta-malar-bold" href="/contact-us">2024 - 2025 கல்வி ஆண்டிற்கான மாணவர் சேர்க்கை நடைபெறுகிறது ! தொடர்பு கொள்ளவும்.</a>
+        <a class="site-stripe mukta-malar-bold" href="/contact-us.php">2024 - 2025 கல்வி ஆண்டிற்கான மாணவர் சேர்க்கை நடைபெறுகிறது ! தொடர்பு கொள்ளவும்.</a>
       </marquee>
     </div>
   </div>

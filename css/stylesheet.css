@@ -310,8 +310,8 @@ select.form-control{
 .news-heading h5 span{color:RGB(1,65,111);font-weight:400;}
 .wise-woods-news{padding:50px 0px 0px 0px;}
 .date-time span{display:block;font:14px/24px 'Dosis';    font-weight: 600;background:#f6f6f6;border:solid 1px #ededed;}
-.date-time{width:73px;height:73px;border:solid 1px #ededed;text-align:center;font:21px/27px 'Dosis';margin-right: 20px;float:left;background:#fcfcfc;border-top:solid 1px RGB(1,65,111);}
-.date-time p{padding:10px 0px 0px 0px;border-top:solid 1px RGB(1,65,111);}
+.date-time{width:73px;height:45px;border:solid 1px #ededed;text-align:center;font:21px/27px 'Dosis';margin-right: 20px;float:left;background:#fcfcfc;border-top:solid 1px RGB(1,65,111);}
+.date-time p{padding:10px 0px 0px 10px;border-top:solid 1px RGB(1,65,111);}
 .annual-day{
     margin-left: 20px;
     float: left;color:#828282;font:14px/25px 'Dosis';
@@ -362,9 +362,9 @@ position: Absolute;
 }
 .panel-title p{color:#828282;}
 .date-wise p{color:#828282;}
-.wise-woods-news p{font:16px/27px 'Dosis';color:#9d9d9d;}
+.wise-woods-news p{font:16px/27px 'Dosis';color:#9d9d9d;text-align: left;}
 .panel-body p {color:#ffffff;}
-.date-time p{font:21px/24px 'Dosis';}
+.date-time p{font:16px/24px 'Dosis';}
 .img-testi img{display:block;margin-left:auto;}
 .img-testi{float:right;}
 
