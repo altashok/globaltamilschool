@@ -47,7 +47,6 @@
       <div class="address-footer"><p><b>Registered Office India</b></p></div>
       <div class="phone-footer">
         <p><b>UK:</b> +44 74597 13276, +44 74382 17913</p>
-        <p><b>Malaysia:</b> +60 11 3539 3014</p>
       </div>
       <div class="emailaddress email-footer"><a href="mailto:globaltamilschool@gmail.com">globaltamilschool@gmail.com</a></div>
     </div>

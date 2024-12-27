@@ -23,7 +23,7 @@
         <a href="downloads.html">Downloads</a>
         </div>-->
         <div class="phone-num">
-        +44 74597 13276, +60 11 3539 3014
+        +44 74597 13276,
         </div>
       </div>
     </div>
@@ -56,7 +56,7 @@
         </div>-->
         <div class="phone-num">
           <i class="fa fa-phone" aria-hidden="true"></i>
-          +44 74597 13276, +60 11 3539 3014
+          +44 74597 13276, 
         </div>
         <div class="emailaddress">
           <i class="fa fa-envelope" aria-hidden="true"></i>

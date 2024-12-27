@@ -60,8 +60,7 @@
     <div class="col-md-4 col-sm-4 br-addr ani">
       <div class="conta-addr">
         <i class="fa fa-mobile mob_icon" aria-hidden="true"></i>
-        <p>UK Mobile No: +44 74597 13276</p>
-        <p>Malaysia Mobile No: +60 11 3539 3014</p>
+        <p>Mobile No: +44 74597 13276 (Whatsapp)</p>
       </div>
     </div>
     <div class="col-md-4 col-sm-4 ani">
