@@ -41,8 +41,19 @@
     </ol>
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
-
       <div class="item active">
+        <img src="img/homecarousel/banner1.png" alt="GTS Banner" style="width:100%;">
+      </div>
+
+      <div class="item">
+        <img src="img/homecarousel/stallnrt.png" alt="Stall" style="width:100%;">
+        <div class="carousel-caption">
+          <h3><span class="mukta-malar-regular"> பள்ளியின் காட்சி அரங்கம் </span></h3>
+          <p><span class="mukta-malar-regular"> அயலகத் தமிழர் நாள் 2025 </span></p>
+        </div>
+      </div>
+
+      <div class="item">
         <img src="img/homecarousel/gts-students-world.png" alt="Los Angeles" style="width:100%;">
         <div class="carousel-caption">
           <h3><span class="mukta-malar-regular"> உலகெங்குமுள்ள எங்கள் மாணவர்கள் </span></h3>

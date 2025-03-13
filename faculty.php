@@ -245,6 +245,18 @@
           </div>
         </div>
       </div>
+
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Kaladevi.jpg" alt="Kaladevi" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name mukta-malar-bold">திருமதி. கலாதேவி</h2>
+            <h2 class="person-name">Mrs. Kaladevi</h2>
+            <p class="faculty-title">Teacher</p>
+            <p class="description">London, UK</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 
