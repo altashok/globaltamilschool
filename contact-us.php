@@ -52,9 +52,9 @@
     <div class="col-md-4 col-sm-4 br-addr ani">
       <div class="conta-addr">
         <i class="fa fa-map-marker map_icon" aria-hidden="true"></i>
-        <p>77 Echo Court<br>
-        Northolt Road<br>
-        Harrow, London HA2 0FU</p>
+        <p>12 Belmont Avenue<br>
+        New Malden<br>
+        London KT3 6QD</p>
       </div>
     </div>
     <div class="col-md-4 col-sm-4 br-addr ani">
@@ -74,7 +74,7 @@
   </div>
 </div>
 <div class="embed-container  maps bg-map" id="map">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19840.93178204905!2d-0.3904299019036498!3d51.566098289158056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876131831e9db65%3A0xfee6d0d07d91d778!2sSouth%20Harrow%2C%20Harrow%20HA2%200FU%2C%20UK!5e0!3m2!1sen!2sin!4v1717904586692!5m2!1sen!2sin" width="100%" class="map-heth" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1046.5845974665597!2d-0.24158478023418173!3d51.3991647582557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760904acc6d471%3A0xa6f8faacae13fca9!2s12%20Belmont%20Ave%2C%20New%20Malden%20KT3%206QD%2C%20UK!5e0!3m2!1sen!2sin!4v1752371602639!5m2!1sen!2sin" width="100%" class="map-heth" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 <div class="clearfix"></div>

@@ -62,10 +62,26 @@
       </div>
 
       <div class="item">
+        <img src="img/homecarousel/uk-2025_1.png" alt="uk2025" style="width:100%;">
+        <div class="carousel-caption">
+          <h3><span class="mukta-malar-regular"> ஆண்டு விழா 2025 - இலண்டன் </span></h3>
+          <p><span class="mukta-malar-regular"> UK Annual Day 2025 </span></p>
+        </div>
+      </div>
+
+      <div class="item">
         <img src="img/homecarousel/uk-2022.jpg" alt="uk2023" style="width:100%;">
         <div class="carousel-caption">
           <h3><span class="mukta-malar-regular"> பட்டமளிப்பு விழா - இலண்டன் மாணவர்கள் </span></h3>
           <p><span class="mukta-malar-regular"> BTEB 2022 exams </span></p>
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="img/homecarousel/uk-2025.png" alt="uk2025" style="width:100%;">
+        <div class="carousel-caption">
+          <h3><span class="mukta-malar-regular"> கேம்பிரிட்ஜ் தமிழ் மொழித் தேர்வு </span></h3>
+          <p><span class="mukta-malar-regular"> UK Annual Day 2025 </span></p>
         </div>
       </div>
 
@@ -230,9 +246,9 @@
     <!-- *************** COLUMN 1 ***************** -->
     <div class="col-md-4 smal-dev-clearfix ani wisewood-cont-abt">
       <div class="news-heading">
-        <h5><span><b>Academic Year 2024-2025</b></h5>
+        <h5><span><b>Academic Year 2025-2026</b></h5>
       </div>
-      <p>Registrations open for Academic year 24-25. Please contact us for classes.</p>
+      <p>Registrations open for Academic year 25-26. Please contact us for classes.</p>
       <a href="https://bteb.org.uk/award-day" style="text-transform:uppercase; color:#00847a;">Read more</a>
 
       <div class="news-heading">
@@ -253,38 +269,29 @@
       <!--Date start-->
       <div class="date-wise">
         <div class="date-time"> 
-          <p>13 Oct</p>
+          <p>1 Sep</p>
         </div>
         <div class="annual-day"></div>
-        <b>Malaysia Annual Day 2024</b><br>
-        <p>in Kualalumpur</p>
-      </div>
-
-      <div class="date-wise">
-        <div class="date-time"> 
-          <p>7 Sep</p>
-        </div>
-        <div class="annual-day"></div>
-        <b>Scotland Annual Day 2024</b><br>
-        <p>in Edinburgh</p>
-      </div>
-
-      <div class="date-wise">
-        <div class="date-time"> 
-          <p>2 Sep</p>
-        </div>
-        <div class="annual-day"></div>
-        <b>AY 2024-2025 starts</b><br>
+        <b>AY 2025-2026 Starts</b><br>
         <p>September Batch</p>
       </div>
 
       <div class="date-wise">
         <div class="date-time"> 
-          <p>29 Jun</p>
+          <p>28 Jun</p>
         </div>
         <div class="annual-day"></div>
-        <b>BTEB - Exams June 2024</b><br>
-        <p>Online & offline</p>
+        <b>BTEB - Exams June 2025</b><br>
+        <p>Online - Worldwide</p>
+      </div>
+
+      <div class="date-wise">
+        <div class="date-time"> 
+          <p>4 May</p>
+        </div>
+        <div class="annual-day"></div>
+        <b>UK Annual Day 2025</b><br>
+        <p>in London</p>
       </div>
   
       <a href="#" style="text-transform:uppercase; color:#00847a; margin:0 95px;" class="text-center">Read more</a>
@@ -294,10 +301,10 @@
     <!-- *************** COLUMN 3 - Event Videos ***************** -->
     <div class="col-md-4 smal-dev-clearfix ani">
       <div class="news-heading">
-        <h5><span><b>UK - Annual Day 2024</b></h5>
+        <h5><span><b>UK - Annual Day 2025</b></h5>
       </div>
-      <p>A small glimpse of Annual Day event in the UK</p>
-      <iframe width="100%" height="250" src="https://www.youtube.com/embed/6JXFDEumZfI?si=zcYRVPfMGs1Ca18i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <p>A grand Awarding Ceremony & Annual Day in the UK</p>
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/AEMOnhmgFFE?si=SlL1t8ymfc_rtFwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       <div class="news-heading">
         <h5><span><b>Malaysia - Annual Day 2024</b></h5>
@@ -312,6 +319,9 @@
   <br>
   <!-- *************** SOCIAL POSTS / VIDEOS ***************** -->
   <div id="portfolio" class="clearfix">
+    <div class="col-md-3 col-sm-3 col-xs-6">
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/6JXFDEumZfI" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    </div>
     <div class="col-md-3 col-sm-3 col-xs-6">
       <iframe width="100%" height="250" src="https://www.youtube.com/embed/Jb5wkYcy98k" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
     </div>

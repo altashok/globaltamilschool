@@ -42,9 +42,8 @@
   <div class="col-md-3 col-sm-6 col-xs-6 wth-smal ani">
     <div class="quick-links">
       <h4>Contact Us</h4>
-      <div class="address-footer"><p><b>Registered Office UK:</b> 77 Echo Court, Northolt Road, Harrow,<br>London HA2 0FU,UK</p></div>
-      <div class="address-footer"><p><b>Registered Office Malaysia</b></p></div>
-      <div class="address-footer"><p><b>Registered Office India</b></p></div>
+      <div class="address-footer"><p><b>Registered Office UK:</b> 12 Belmont Avenue, New Malden, <br>London KT3 6QD, UK</p></div>
+      <div class="address-footer"><p><b>Registered in Malaysia & India</b></p></div>
       <div class="phone-footer">
         <p><b>UK:</b> +44 74597 13276, +44 74382 17913</p>
       </div>

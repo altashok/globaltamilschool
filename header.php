@@ -29,7 +29,7 @@
     </div>
     <div class="col-sm-12">
       <marquee class="site-stripe-container" behavior="scroll" direction="left">
-        <a class="site-stripe mukta-malar-bold" href="/contact-us.php">2024 - 2025 கல்வி ஆண்டிற்கான மாணவர் சேர்க்கை நடைபெறுகிறது ! தொடர்பு கொள்ளவும்.</a>
+        <a class="site-stripe mukta-malar-bold" href="/contact-us.php">2025 - 2026 கல்வி ஆண்டிற்கான மாணவர் சேர்க்கை நடைபெறுகிறது ! தொடர்பு கொள்ளவும்.</a>
       </marquee>
     </div>
   </div>
@@ -70,7 +70,7 @@
     <!-- Desktop & Tablet views -->
     <div class="col-lg-12 col-md-12">
       <marquee class="site-stripe-container" behavior="scroll" direction="left">
-        <a class="site-stripe mukta-malar-bold" href="/contact-us.php">2024 - 2025 கல்வி ஆண்டிற்கான மாணவர் சேர்க்கை நடைபெறுகிறது ! தொடர்பு கொள்ளவும்.</a>
+        <a class="site-stripe mukta-malar-bold" href="/contact-us.php">2025 - 2026 கல்வி ஆண்டிற்கான மாணவர் சேர்க்கை நடைபெறுகிறது ! தொடர்பு கொள்ளவும்.</a>
       </marquee>
     </div>
   </div>
