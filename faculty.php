@@ -48,10 +48,7 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
-  <div class="page-content">
-    <div class="container">
+
       <div class="faculty-column">
         <div class="card">
           <img src="img/people/Photo_UmaAshok.jpg" alt="Uma" style="width:100%">
@@ -63,7 +60,11 @@
           </div>
         </div>
       </div>
-
+      
+    </div>
+  </div>
+  <div class="page-content">
+    <div class="container">
       <div class="faculty-column">
         <div class="card">
           <img src="img/people/RadhikaHarish.jpg" alt="Radhika" style="width:100%">
@@ -174,19 +175,6 @@
           </div>
         </div>
       </div>
-
-      <div class="faculty-column">
-        <div class="card">
-          <img src="img/people/Sivaranjani.jpg" alt="Sivaranjani" style="width:100%">
-          <div class="faculty-container">
-            <h2 class="person-name mukta-malar-bold">திருமதி. சிவரஞ்சனி</h2>
-            <h2 class="person-name">Mrs. Sivaranjani</h2>
-            <p class="faculty-title">Teacher</p>
-            <p class="description">Global Tamil School - Malaysia</p>
-          </div>
-        </div>
-      </div>
-
       <div class="faculty-column">
         <div class="card">
           <img src="img/people/Sureka.jpg" alt="Sureka" style="width:100%">
@@ -224,24 +212,12 @@
 
       <div class="faculty-column">
         <div class="card">
-          <img src="img/people/Placeholder.jpg" alt="Narmadha" style="width:100%">
+          <img src="img/people/Narmadha.jpg" alt="Narmadha" style="width:100%">
           <div class="faculty-container">
             <h2 class="person-name mukta-malar-bold">திருமதி. நர்மதா</h2>
             <h2 class="person-name">Mrs. Narmadha</h2>
             <p class="faculty-title">Teacher</p>
             <p class="description">Chennai, India</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="faculty-column">
-        <div class="card">
-          <img src="img/people/Subhashini.jpg" alt="Subha" style="width:100%">
-          <div class="faculty-container">
-            <h2 class="person-name mukta-malar-bold">திருமதி. சுபாஷினி</h2>
-            <h2 class="person-name">Mrs. Subhashini</h2>
-            <p class="faculty-title">Teacher</p>
-            <p class="description">Tamilnadu, India</p>
           </div>
         </div>
       </div>
@@ -257,6 +233,32 @@
           </div>
         </div>
       </div>
+      
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Vijayalakshmi.jpg" alt="Vijayalakshmi" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name mukta-malar-bold">திருமதி. விஜயலட்சுமி சுந்தர்ராஜன்</h2>
+            <h2 class="person-name">Mrs. Vijayalakshmi Sundarrajan</h2>
+            <p class="faculty-title">Teacher</p>
+            <p class="description">London, UK</p>
+          </div>
+        </div>
+      </div>
+      
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Devika.jpg" alt="Devika" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name mukta-malar-bold">திருமதி. தேவிகா பாலன்</h2>
+            <h2 class="person-name">Mrs. Devika Balan</h2>
+            <p class="faculty-title">Teacher</p>
+            <p class="description">India</p>
+          </div>
+        </div>
+      </div>
+
+      
     </div>
   </div>
 

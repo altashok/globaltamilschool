@@ -61,7 +61,8 @@
       <div class="conta-addr">
         <i class="fa fa-mobile mob_icon" aria-hidden="true"></i>
         <p>United Kingdom: +44 74597 13276 (Whatsapp)</p>
-        <p>Malaysia: +60 11 3539 3014</p>
+        <p>+44 7424 566744</p>
+        <p>+91 8682 901099 (India)</p>
       </div>
     </div>
     <div class="col-md-4 col-sm-4 ani">

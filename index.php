@@ -86,13 +86,6 @@
       </div>
 
       <div class="item">
-        <img src="img/homecarousel/malaysia-2024.png" alt="malaysia2024" style="width:100%;">
-        <div class="carousel-caption">
-          <p><span class="mukta-malar-regular"> மலேசியா - ஆண்டு விழா 2024 </span></p>
-        </div>
-      </div>
-
-      <div class="item">
         <img src="img/homecarousel/uk-2024.png" alt="uk2024" style="width:100%;">
         <div class="carousel-caption">
           <h3><span class="mukta-malar-regular"> ஆண்டு விழா 2024 </span></h3>
@@ -101,23 +94,9 @@
       </div>
 
       <div class="item">
-        <img src="img/homecarousel/malaysia-2023.jpg" alt="malaysia2023" style="width:100%;">
-        <div class="carousel-caption">
-          <p><span class="mukta-malar-regular"> மலேசியா ஆண்டு விழா 2023 </span></p>
-        </div>
-      </div>
-
-      <div class="item">
         <img src="img/homecarousel/uk-2023.jpg" alt="uk2023" style="width:100%;">
         <div class="carousel-caption">
           <p><span class="mukta-malar-regular"> இலண்டன் ஆண்டு விழா 2023 </span></p>
-        </div>
-      </div>
-
-      <div class="item">
-        <img src="img/homecarousel/malaysia-2022.jpg" alt="malaysia2022" style="width:100%;">
-        <div class="carousel-caption">
-          <p><span class="mukta-malar-regular"> மலேசியா ஆண்டு விழா 2022 </span></p>
         </div>
       </div>
 
@@ -166,7 +145,7 @@
       <div class="heading ani">
         <h2>Global Tamil School</h2>
       </div>
-      <p>We are online Tamil school offering online Tamil language classes for the students from all over the world. We carefully chose the syllabus and teaching methods that helps the students growth. We provide students with high quality textbooks and learning materials, worksheets & assessment. We have happy students all around the world including UK, USA, Canada, Australia, Europe, UAE, India, Singapore, Malaysia etc.,</p>
+      <p>We are online Tamil school offering online Tamil language classes for the students from all over the world. We carefully chose the syllabus and teaching methods that helps the students growth. We provide students with high quality textbooks and learning materials, worksheets & assessment. We have happy students all around the world including UK, USA, Canada, Australia, Europe, UAE, India, Singapore etc.,</p>
       <p>Apart from Language classes we also provide online classes for the indian performing arts like Bharathanatyam, Violin, Tabla, Veenai, Carnatic vocals, etc., </p>
       <div class="read-welcome">
         <a href="about-us.php">READMORE</a>
@@ -306,11 +285,11 @@
       <p>A grand Awarding Ceremony & Annual Day in the UK</p>
       <iframe width="100%" height="250" src="https://www.youtube.com/embed/AEMOnhmgFFE?si=SlL1t8ymfc_rtFwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-      <div class="news-heading">
+      <!-- <div class="news-heading">
         <h5><span><b>Malaysia - Annual Day 2024</b></h5>
       </div>
       <p>A grand celebration of the event at Kualalumpur</p>
-      <iframe width="100%" height="250" src="https://www.youtube.com/embed/SonFxz9zkX0?si=shYNYrEPlgVcOv9a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/SonFxz9zkX0?si=shYNYrEPlgVcOv9a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
     </div>
   </div>
 
