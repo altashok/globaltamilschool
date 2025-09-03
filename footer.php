@@ -44,7 +44,7 @@
       <h4>Contact Us</h4>
       <div class="address-footer"><p><b>Registered Office UK:</b> 12 Belmont Avenue, New Malden, <br>London KT3 6QD, UK</p></div>
       <div class="phone-footer">
-        <p><b>UK:</b> +44 74597 13276 (Whatsapp)</p>
+        <p><b>UK: +44 74597 13276 (Whatsapp)</b></p>
         <p><b>+44 7424 566744</b></p>
         <p><b>+91 8682 901099 (India)</b></p>
       </div>

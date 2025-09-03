@@ -39,6 +39,18 @@
 
       <div class="faculty-column">
         <div class="card">
+          <img src="img/people/Ponnammal.jpg" alt="Ponnammal" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name mukta-malar-bold">உயர்திரு. பொன்னம்மாள் ஃப்ரெடரிக் ஜோசப்</h2>
+            <h2 class="person-name">Mr. Ponnammal Frederick Joseph</h2>
+            <p class="faculty-title">Advisor</p>
+            <p class="description">Former Treasurer - TamilStudiesUK,<br>Lead IQA - Bliss College London</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="faculty-column">
+        <div class="card">
           <img src="img/people/Jebaraj.jpg" alt="Jebaraj" style="width:100%">
           <div class="faculty-container">
             <h2 class="person-name mukta-malar-bold">முனைவர். ஜெபராஜ் தேவதாசன்</h2>
@@ -78,6 +90,23 @@
       </div>
     </div>
   </div>
+
+  <div class="page-content">
+    <div class="container">
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Sandhiya.jpg" alt="Sandhiya" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name mukta-malar-bold">திருமதி. சந்தியா திரு</h2>
+            <h2 class="person-name">Mrs. Sandhya Thiru</h2>
+            <p class="faculty-title">Scotland Branch Secretary</p>
+            <p class="description">Global Tamil School - Scotland, UK</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <div class="page-content">
     <div class="container">
       <div class="faculty-column">
@@ -88,6 +117,18 @@
             <h2 class="person-name">Mrs. Sanjiya Senthil</h2>
             <p class="faculty-title">Teacher</p>
             <p class="description">Gobal Tamil School - Harrow, UK</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Sankareswari.jpg" alt="Sankareswari" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name mukta-malar-bold">திருமதி. சங்கரேஸ்வரி நாகேந்திரா</h2>
+            <h2 class="person-name">Mrs. Sankareswari Nagendra</h2>
+            <p class="faculty-title">Teacher</p>
+            <p class="description">London, UK</p>
           </div>
         </div>
       </div>
@@ -154,18 +195,6 @@
 
       <div class="faculty-column">
         <div class="card">
-          <img src="img/people/Sankareswari.jpg" alt="Sankareswari" style="width:100%">
-          <div class="faculty-container">
-            <h2 class="person-name mukta-malar-bold">திருமதி. சங்கரேஸ்வரி நாகேந்திரா</h2>
-            <h2 class="person-name">Mrs. Sankareswari Nagendra</h2>
-            <p class="faculty-title">Teacher</p>
-            <p class="description">London, UK</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="faculty-column">
-        <div class="card">
           <img src="img/people/PadmaSridhar.jpg" alt="PadmaSridhar" style="width:100%">
           <div class="faculty-container">
             <h2 class="person-name mukta-malar-bold">திருமதி. பத்மா ஸ்ரீதர்</h2>
@@ -214,8 +243,8 @@
         <div class="card">
           <img src="img/people/Narmadha.jpg" alt="Narmadha" style="width:100%">
           <div class="faculty-container">
-            <h2 class="person-name mukta-malar-bold">திருமதி. நர்மதா</h2>
-            <h2 class="person-name">Mrs. Narmadha</h2>
+            <h2 class="person-name mukta-malar-bold">திருமதி. நர்மதா குமரன்</h2>
+            <h2 class="person-name">Mrs. Narmadha Kumaran</h2>
             <p class="faculty-title">Teacher</p>
             <p class="description">Chennai, India</p>
           </div>
@@ -258,6 +287,17 @@
         </div>
       </div>
 
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Sinduri.jpg" alt="Sinduri" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name mukta-malar-bold">திருமதி. சிந்துரி கணேஷ்குமார்</h2>
+            <h2 class="person-name">Mrs. Sinduri Ganeshkumar</h2>
+            <p class="faculty-title">Teacher</p>
+            <p class="description">London, UK</p>
+          </div>
+        </div>
+      </div>
       
     </div>
   </div>
@@ -286,6 +326,30 @@
             <h2 class="person-name">Mr. Gerald James</h2>
             <p class="faculty-title">Teacher</p>
             <p class="description">Keyboard & Guitar</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Placeholder.jpg" alt="Mercy" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name mukta-malar-bold">திருமதி. மெர்சி</h2>
+            <h2 class="person-name">Mrs. Mercy</h2>
+            <p class="faculty-title">Teacher</p>
+            <p class="description">Languages & Fine Arts</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Placeholder.jpg" alt="Swathy" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name mukta-malar-bold">திருமதி. சுவாதி</h2>
+            <h2 class="person-name">Mrs. Swathy</h2>
+            <p class="faculty-title">Teacher</p>
+            <p class="description">Classical Dance</p>
           </div>
         </div>
       </div>
