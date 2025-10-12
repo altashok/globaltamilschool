@@ -17,7 +17,7 @@
         <ul class="quick-text">
           <li><a href="/">Home </a></li>
           <li><a href="about-us.php">About us </a></li>
-          <li><a href="curriculam.php">Online classes & Syllabus </a></li>
+          <li><a href="courses.php">Online classes & Syllabus </a></li>
           <li><a href="affiliations.php">Our Affiliations</a></li>
           <li><a href="faculty.php">Teachers & Committee </a></li>
           <li><a href="contact-us.php">Contact us</a></li>

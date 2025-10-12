@@ -88,11 +88,6 @@
           </div>
         </div>
       </div>
-    </div>
-  </div>
-
-  <div class="page-content">
-    <div class="container">
       <div class="faculty-column">
         <div class="card">
           <img src="img/people/Sandhiya.jpg" alt="Sandhiya" style="width:100%">

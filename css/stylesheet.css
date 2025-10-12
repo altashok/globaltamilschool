@@ -504,13 +504,13 @@ input.form-control1.submit1.btm-ntm {
 .br-none{background:none;}
 input.form-control1.submit1.btm-ntm:hover{background:RGB(1,65,111);color:#fff;}
 .about-photo-img{padding:50px 0px 20px 0px;}
-.about-content p{text-align:justify;font: 18px/30px 'Dosis';color:#272727;}
+.about-content p{text-align:justify;font-size: large;color:#272727;}
 .about-content p span{ font-weight:600;}
 .about-content ul{ margin:0 20px; padding:0;}
 .about-content ul li{text-align:justify;font: 18px/30px 'Dosis';color:#272727; line-height:24px;}
 .about-content p.dwnd:before{ content:url(../images/download-ico.png); padding-right: 13px;}
 .about-content p a{color:#272727;}
-.about-content p.emp{ font: 18px/30px 'Dosis';color:RGB(1,65,111); font-style:italic; margin:10px 0; padding:0; text-align:center; font-weight:600;}
+.about-content p.emp{ color:RGB(1,65,111); font-style:italic; margin:10px 0; padding:0; text-align:center; font-weight:600;}
 .about-content h1{text-align:justify;font: 18px 'Dosis'; color:RGB(1,65,111); padding:10px 0; margin:0; text-transform: uppercase; font-weight:500;}
 .parallel-cont{width:89%;margin:0 auto;}
 .parallel-cont p{text-align:center;font:16px/24px 'Dosis';}
@@ -1030,3 +1030,4 @@ border-radius:5px; display: inline-block; margin-top:10px;}
 .footer_bottom{
     border-top: 1px solid rgba(255,255,255,.1);
 }
+
