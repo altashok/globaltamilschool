@@ -12,9 +12,9 @@
 <div class="slider1">
    <div class="slide animation-edu-3">
 			<h1>Global Tamil School</h1>
-     </div>
-  </div>
-  </div>
+   </div>
+</div>
+</div>
 
 <div class="clearfix"></div>
 <div class="page-content">

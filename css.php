@@ -8,6 +8,6 @@
 <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css"/>
 <link href="css/stylesheet.css" type="text/css" rel="stylesheet"/>
 <link href="css/jquery.bxslider.css" type="text/css" rel="stylesheet"/>
-<link href="css/animation.css" type="text/css" rel="stylesheet"/>
+<!-- <link href="css/animation.css" type="text/css" rel="stylesheet"/> -->
 <link href="css/responsive.css" type="text/css" rel="stylesheet"/>
 <link href="css/fonts.css" type="text/css" rel="stylesheet"/>

@@ -10,7 +10,7 @@
 <body>
 <?php include "header.php";?>
 <div class="title-component">
-  <h1 class="mukta-malar-bold">பாடங்கள் & பரீட்சைகள்<br>COURSES & EXAMS</h1>
+  <h1 class="mukta-malar-bold">பாடங்கள் & தேர்வுகள்<br>COURSES & EXAMS</h1>
 </div>
 
 <div class="clearfix"></div>
@@ -20,7 +20,7 @@
 <div class="sel-program">
 
 <h1 class="mukta-malar-bold">தமிழ்மொழி</h1>
-<p class="color mukta-malar-regular"><b>தமிழ் மொழிப் பரீட்சைக்காக</b> ஐக்கிய இராச்சியத்திலுள்ள பிரித்தானிய தமிழ்மொழிப் பரீட்சைச் சபையின் (BTEB) பாடத்திட்டங்கள் பின்பற்றப்படுகின்றன.</p>
+<p class="color mukta-malar-regular"><b>தமிழ் மொழித் தேர்வுக்காக</b> ஐக்கிய இராச்சியத்திலுள்ள பிரித்தானிய தமிழ்மொழிப் பரீட்சைச் சபையின் (BTEB) பாடத்திட்டங்கள் பின்பற்றப்படுகின்றன.</p>
 <h1>Tamil Language</h1>
 <p><b class="color">We</b> follow the British Tamil Examination Board (BTEB), UK syllabus for Tamil Language examinations.</p>
 <img src="images/btebBanner.png" class="img-responsive" style="margin: 0 auto; width: 90%;">

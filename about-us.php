@@ -29,14 +29,14 @@
         <p>We are the first online Tamil school in UK with more number of students from all around the world learning Tamil language. We carefully chose the syllabus that helps students in their growth. We provide the students with high quality textbooks and learning materials, effective worksheets, and assessment. We have happy students all around the world including UK, USA, Europe, UAE, India, Singapore etc.,</p>
         <p>We also take classes for the Indian performing arts & provide opportunity to the students to getting certification from International examination board.</p>
         <h1>MISSION</h1>
-        <p>To provide a positive, safe, and stimulating learning environment where students enjoy their Tamil education, reach their full potential, and become lifelong learners.</p>
-        <p>To deliver excellence through carefully selected curricula, superior textbooks, engaging worksheets, and robust assessments.</p>
+        <p>To provide a positive, safe, and stimulating learning environment where students enjoy their Tamil education, reach their full potential, and become lifelong self learners.</p>
+        <p>To deliver excellence through carefully selected curriculam, superior textbooks, engaging worksheets, and robust assessments.</p>
         <p>To build strong trust with parents in our teaching methods, accountability, and student progress.</p>
         <p>To foster a sense of unity and belonging among teachers and staff, binding them together as the Global Tamil School family.</p>
         <p>To promote Tamil language and arts globally by offering courses not only in language, but in performing arts, and to offer internationally recognized certifications.</p>
         
         <h1>VISION</h1>
-        <p>To become the world’s premier online Tamil school, delivering high-quality Tamil and performing arts education globally.</p>
+        <p>To become the world’s premier Tamil school, delivering high-quality Tamil and performing arts education globally.</p>
         <p>To nurture generations of Tamil speakers across the globe, preserving their cultural identity and enabling them to flourish academically, artistically, and socially.</p>
         <div class="col-md-6  col-sm-6 no-pad-school">
           <br>

@@ -139,6 +139,18 @@
           </div>
         </div>
       </div>
+      
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/BrinthaArun.png" alt="Brintha Arun" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name mukta-malar-bold">திருமதி. பிருந்தா அருண்</h2>
+            <h2 class="person-name">Mrs. Brintha Arun</h2>
+            <p class="faculty-title">Teacher</p>
+            <p class="description">Dubai / Abu Dhabi, UAE</p>
+          </div>
+        </div>
+      </div>
 
       <div class="faculty-column">
         <div class="card">
@@ -207,17 +219,6 @@
             <h2 class="person-name">Mrs. Sureka Vanniyaraja</h2>
             <p class="faculty-title">Teacher</p>
             <p class="description">Bangalore, India</p>
-          </div>
-        </div>
-      </div>
-      <div class="faculty-column">
-        <div class="card">
-          <img src="img/people/Vallimalar.jpg" alt="Valli" style="width:100%">
-          <div class="faculty-container">
-            <h2 class="person-name mukta-malar-bold">திருமதி. வள்ளிமலர்</h2>
-            <h2 class="person-name">Mrs. Vallimalar</h2>
-            <p class="faculty-title">Teacher</p>
-            <p class="description">Scotland, UK</p>
           </div>
         </div>
       </div>
@@ -339,15 +340,40 @@
 
       <div class="faculty-column">
         <div class="card">
+          <img src="img/people/DheepaBS.jpg" alt="Dheepa" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name mukta-malar-bold">திருமதி. தீபா</h2>
+            <h2 class="person-name">Mrs. Dheepa BS</h2>
+            <p class="faculty-title">Teacher</p>
+            <p class="description">Bharathanatyam</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="faculty-column">
+        <div class="card">
           <img src="img/people/Placeholder.jpg" alt="Swathy" style="width:100%">
           <div class="faculty-container">
             <h2 class="person-name mukta-malar-bold">திருமதி. சுவாதி</h2>
             <h2 class="person-name">Mrs. Swathy</h2>
             <p class="faculty-title">Teacher</p>
-            <p class="description">Classical Dance</p>
+            <p class="description">Bharathanatyam</p>
           </div>
         </div>
       </div>
+
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Placeholder.jpg" alt="Bharani" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name mukta-malar-bold">திருமதி. பரணி</h2>
+            <h2 class="person-name">Mrs. Bharani</h2>
+            <p class="faculty-title">Teacher</p>
+            <p class="description">Chess & Abacus</p>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
   <div class="clearfix"></div>
