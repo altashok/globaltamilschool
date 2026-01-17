@@ -29,7 +29,7 @@
         <div class="card">
           <img src="img/people/SivaPillai.jpg" alt="Sivapillai" style="width:100%">
           <div class="faculty-container">
-            <h2 class="person-name mukta-malar-bold">உயர்திரு. சிவா பிள்ளை</h2>
+            <h2 class="person-name mukta-malar-bold">தெய்வத்திரு. சிவா பிள்ளை</h2>
             <h2 class="person-name">Mr. Siva Pillai</h2>
             <p class="faculty-title">Advisor</p>
             <p class="description">Chairperson - British Tamil Examination Board, UK</p>
@@ -63,7 +63,7 @@
 
       <div class="faculty-column">
         <div class="card">
-          <img src="img/people/Photo_UmaAshok.jpg" alt="Uma" style="width:100%">
+          <img src="img/people/UmaAshok.jpg" alt="Uma" style="width:100%">
           <div class="faculty-container">
             <h2 class="person-name mukta-malar-bold">திருமதி. உமாதேவி அசோக்குமார்</h2>
             <h2 class="person-name">Mrs. Uma Devi Ashok Kumar</h2>
@@ -79,12 +79,12 @@
     <div class="container">
       <div class="faculty-column">
         <div class="card">
-          <img src="img/people/RadhikaHarish.jpg" alt="Radhika" style="width:100%">
+          <img src="img/people/Sankareswari.jpg" alt="Sankareswari" style="width:100%">
           <div class="faculty-container">
-            <h2 class="person-name mukta-malar-bold">திருமதி. ராதிகா ஹரீஷ்</h2>
-            <h2 class="person-name">Mrs. Radhika Harish</h2>
-            <p class="faculty-title">Co-Founder & Teacher</p>
-            <p class="description">Global Tamil School, Malaysia</p>
+            <h2 class="person-name mukta-malar-bold">திருமதி. சங்கரேஸ்வரி நாகேந்திரா</h2>
+            <h2 class="person-name">Mrs. Sankareswari Nagendra</h2>
+            <p class="faculty-title">Secretary & Teacher</p>
+            <p class="description">London, UK</p>
           </div>
         </div>
       </div>
@@ -112,18 +112,6 @@
             <h2 class="person-name">Mrs. Sanjiya Senthil</h2>
             <p class="faculty-title">Teacher</p>
             <p class="description">Gobal Tamil School - Harrow, UK</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="faculty-column">
-        <div class="card">
-          <img src="img/people/Sankareswari.jpg" alt="Sankareswari" style="width:100%">
-          <div class="faculty-container">
-            <h2 class="person-name mukta-malar-bold">திருமதி. சங்கரேஸ்வரி நாகேந்திரா</h2>
-            <h2 class="person-name">Mrs. Sankareswari Nagendra</h2>
-            <p class="faculty-title">Teacher</p>
-            <p class="description">London, UK</p>
           </div>
         </div>
       </div>
@@ -295,6 +283,30 @@
         </div>
       </div>
       
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Placeholder.jpg" alt="Abila" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name mukta-malar-bold">திருமதி. மாணிக்க ஈஸ்வரி</h2>
+            <h2 class="person-name">Mrs. Manicka Eashwari</h2>
+            <p class="faculty-title">Teacher</p>
+            <p class="description">India</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="faculty-column">
+        <div class="card">
+          <img src="img/people/Placeholder.jpg" alt="Abila" style="width:100%">
+          <div class="faculty-container">
+            <h2 class="person-name mukta-malar-bold">திருமதி. வைஷ்ணவி சிவா</h2>
+            <h2 class="person-name">Mrs. Vaishnavi Siva</h2>
+            <p class="faculty-title">Teacher</p>
+            <p class="description">India</p>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 

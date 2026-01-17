@@ -30,7 +30,7 @@
 <br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <br>
-<h1 class="mukta-malar-bold">நுண்கலைகள்</h1>
+<!-- <h1 class="mukta-malar-bold">நுண்கலைகள்</h1>
 <p><b class="color mukta-malar-regular">நுண்கலைப் பாடங்களுக்காக</b> நாங்கள் கிரீபின் கல்லூரி லண்டன் (சர்வதேச பரீட்சைச் சபை) பாடத்திட்டங்களைப் பின்பற்றுகிறோம்.</p>
 <ul>
   <li>இந்திய பாரம்பரிய நடனம்: பரதநாட்டியம்</li>
@@ -47,7 +47,7 @@
 <h3><a href="https://www.griffincollege.org.uk/our-syllabuses">Detailed Information</a></h3>
 <h3><a href="https://www.griffincollege.org.uk/ucas/">UCAS Points</a></h3>
 <h3><a href="https://www.griffincollege.org.uk/our-exams/">Examinations</a></h3>
-<h3><a href="https://www.griffincollege.org.uk/exam-dates/">Exam Dates</a></h3>
+<h3><a href="https://www.griffincollege.org.uk/exam-dates/">Exam Dates</a></h3> -->
 
 </div>
 

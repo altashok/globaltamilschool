@@ -39,7 +39,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-6" style="border: 2px solid #333; border-radius: 25px;">
+            <!-- <div class="col-md-6" style="border: 2px solid #333; border-radius: 25px;">
                 <h2 class="mukta-malar-bold"><b>கிரிபின் கல்லூரி இலண்டன்</b></h2>
                 <h4>(சர்வதேச பரீட்சைச் சபை)</h4>
                 <p class="mukta-malar-regular">கிரிபின் கல்லூரியுடன் இணைந்து மாணவர்களுக்கு 18 வகையான இந்திய நிகழ்த்தும் கலைகளுக்கான பரீட்சைகள் நடத்தி சான்றிதழ்கள் வழங்குகிறோம்.</p>
@@ -49,7 +49,7 @@
                 <a href="https://www.griffincollege.org.uk/" target="_blank"><img src="img/gcl-logo.png" style="width:100%;margin:auto;display:block;"  /></a>
                 <br>
                 <br>
-            </div>
+            </div> -->
             <div class="col-md-6" style="border: 2px solid #333; border-radius: 25px;">
                 <h2>Partnered with</h2>
                 <h2 class="mukta-malar-bold"><b>தமிழ்மொழி கலைக்கழகம்</b></h2>

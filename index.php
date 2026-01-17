@@ -137,16 +137,14 @@
       <h1><span class="mukta-malar-regular">தமிழ்மொழி நமது அடையாளம்</span></h1>
     </div>
     <div class="welcome-content ani">
-      <p class="mukta-malar-regular">உலகளாவிய தமிழ்ப் பள்ளி, தமிழ் மொழியினை இணையவழியூடாக உலகமெங்கும் மாணவர்களுக்கு கற்பித்துக்கொண்டிருக்கிறது. சுலபமாகக் கற்கும் வகையிலும், மாணவர்களின் முன்னேற்றத்திற்கு உதவும் வகையிலுமான பாடத்திட்டங்களை தேர்ந்தெடுத்து வழங்கிக்கொடுள்ளோம். மிகவும் தரமான பணித்தாள்கள் மற்றும் மதிப்பீட்டு முறைகள் உபயோகப்படுத்துகிறோம். மிகவும் திருப்திகரமான எங்கள் மாணவர்கள் ஐக்கிய இராச்சியம், அமெரிக்கா, கனடா, ஆஸ்திரேலியா, ஐரோப்பா, வளைகுடா நாடுகள், இந்தியா, சிங்கப்பூர், மலேசியா மற்றுமுள்ள உலகநாடுகளில் வசிக்கின்றனர்.</p>
-      <p class="mukta-malar-regular">தமிழ் மொழி மட்டுமல்லாமல் நாங்கள் பரதநாட்டியம், வயலின், தபேலா, வீணை, கர்நாடக சங்கீதம் போன்ற இந்திய நிகழ்த்தும் கலை வகுப்புகளையும் இணையவழியூடாக நடத்திக்கொண்டிருக்கிறோம்.</p>
+      <p class="mukta-malar-regular">உலகளாவிய தமிழ்ப் பள்ளி - உலகம் முழுவதும் உள்ள மாணவர்களுக்கு தரமான, ஒழுங்கமைக்கப்பட்ட தமிழ் மொழிக் கல்வியை இணையவழி மூலம் வழங்கும் பள்ளியாகும். 2021ஆம் ஆண்டு தொடங்கப்பட்டு, லண்டனில் தலைமையிடமிடப்பட்ட இந்த பள்ளி வாசித்தல், கேட்டல், பேசுதல் மற்றும் எழுதுதல் ஆகிய நான்கு திறன்களிலும் விரிவான பயிற்சியை அனுபவமிக்க ஆசிரியர்கள் மற்றும் சிறந்த பாடத்திட்டங்களின் மூலம் வழங்குகிறது. ஐக்கிய இராச்சியம், அமெரிக்கா, கனடா, ஐரோப்பா, ஆஸ்திரேலியா, ஆசியா மற்றும் வளைகுடா நாடுகள் உள்ளிட்ட பல இடங்களிலிருந்து மாணவர்கள் எங்கள் பள்ளியில் தமிழ் கற்றுக் கொண்டுள்ளனர். தமிழ் மொழி, பண்பாடு, கலாச்சாரம் ஆகியவற்றின் மேலான பற்றை மாணவர்களிடம் வளர்ப்பது எங்கள் நோக்கமாகும். மேலும் பரதநாட்டியம், வயலின், தபேலா, வீணை, கர்நாடக சங்கீதம் போன்ற இந்திய நிகழ்த்தும் கலை வகுப்புகளையும் இணையவழியூடாக நடத்திக்கொண்டிருக்கிறது.</p>
       <div class="read-welcome">
         <a href="about-us.php" class="mukta-malar-regular">மேலும் படிக்க</a>
       </div>
       <div class="heading ani">
         <h2>Global Tamil School</h2>
       </div>
-      <p>At our Online Tamil School, we are committed to providing high-quality Tamil language education to students across the globe. Our carefully structured syllabus and proven teaching methodologies are designed to nurture language proficiency, cultural understanding, and a lifelong love for Tamil.</p>
-      <p>We offer comprehensive learning materials, including textbooks, worksheets, and regular assessments, ensuring that every student receives a complete and engaging learning experience. Our students come from diverse parts of the world—including the United Kingdom, United States, Canada, Australia, Europe, the UAE, India, and Singapore—reflecting the global reach and trust we have built over the years.</p>
+      <p>Global Tamil School is an international online Tamil language institution dedicated to providing high-quality, structured Tamil education to learners across the world. Founded in 2021 and based in London, the school offers comprehensive instruction in reading, listening, speaking, and writing through well-designed curricula and experienced teachers. Serving students from the UK, USA, Canada, Europe, Australia, Asia, and the Middle East, Global Tamil School also prepares learners for internationally accessible Tamil language examinations while fostering a strong connection to Tamil culture and heritage.</p>
       <p>Beyond language education, we also offer online classes in Indian performing arts, such as Bharathanatyam, Violin, Tabla, Veena, and Carnatic Vocal Music, enabling students to explore and master the rich traditions of Indian art and culture from the comfort of their homes. Join our vibrant learning community and embark on a rewarding journey to connect with the Tamil language and heritage.</p>
       <div class="read-welcome">
         <a href="about-us.php">READMORE</a>
@@ -299,6 +297,12 @@
   <br>
   <!-- *************** SOCIAL POSTS / VIDEOS ***************** -->
   <div id="portfolio" class="clearfix">
+    <div class="col-md-3 col-sm-3 col-xs-6">
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/kIUHG4JrhN0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    </div>
+    <div class="col-md-3 col-sm-3 col-xs-6">
+      <iframe width="100%" height="250" src="https://www.youtube.com/embed/vphbXExDQLs" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    </div>
     <div class="col-md-3 col-sm-3 col-xs-6">
       <iframe width="100%" height="250" src="https://www.youtube.com/embed/9VtPAEsy5yI" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
     </div>
